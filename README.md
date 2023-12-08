@@ -6,7 +6,7 @@ Proyecto con el framework de php codeigniter en su versión 4, este proyecto tie
 
 ## Ejecucion 
 
-###--> php spark serve --port 8081
+--> php spark serve --port 8081
 
 
 ## Imagenes preview
