@@ -13,8 +13,8 @@ Proyecto con el framework de php codeigniter en su versión 4, este proyecto tie
 
 [![Login.jpg](https://i.postimg.cc/1XZpn1Km/Login.jpg)](https://postimg.cc/S2DX3553)
 [![Escritorio.jpg](https://i.postimg.cc/MTB7ppV3/Escritorio.jpg)](https://postimg.cc/S2y2ZqZc)
-[![Crud-2.jpg](https://i.postimg.cc/q7Scr3hC/Crud-2.jpg)](https://postimg.cc/DWQ4dmc2)
 [![Crud-1.jpg](https://i.postimg.cc/3wdjzBRT/Crud-1.jpg)](https://postimg.cc/QBZWTc14)
+[![Crud-2.jpg](https://i.postimg.cc/q7Scr3hC/Crud-2.jpg)](https://postimg.cc/DWQ4dmc2)
 
 ## What is CodeIgniter?
 
