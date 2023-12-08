@@ -2,11 +2,11 @@
 
 ## Introduccion
 
-Proyecto con el framework de php codeigniter en su versión 4, este proyecto tiene un CRUD funcional, y su base de datos en un archivo .sql, también un login funcional. By Abel sol
+Proyecto con el framework de php codeigniter en su versión 4, este proyecto tiene un CRUD funcional, y su base de datos en un archivo .sql, también un login (no funcional). By Abel sol
 
 ## Ejecucion 
 
---> php spark serve --port 8081
+###--> php spark serve --port 8081
 
 
 ## Imagenes preview
