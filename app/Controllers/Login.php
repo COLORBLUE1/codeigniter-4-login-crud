@@ -22,12 +22,8 @@ class Login extends BaseController{
             $email =filter_var($emailusuario, FILTER_SANITIZE_EMAIL);
             $this->usuario = new usuario();
             $resultadousuario = $this->usuario->buscarusuarioporemail($email);
-        }else{
-            $usuario = preg_replace("/[^a-zA-Z0-9.-]", "", $emailusuario);
-            $this->usuario = new usuario();
-            $resultadousuario = $this->usuario->buscarusuarioporusuario($usuario);
+      
         }
-       
+    }
     }
     
-}
