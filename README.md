@@ -1,5 +1,10 @@
 # CodeIgniter 4 Framework
 
+## Introduccion
+
+Proyecto con el framework de php codeigniter en su versión 4, este proyecto tiene un CRUD funcional, y su base de datos en un archivo .sql, también un login funcional. By Abel sol
+
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
